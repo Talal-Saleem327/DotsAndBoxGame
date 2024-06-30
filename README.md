@@ -9,4 +9,16 @@ This project implements a Dots and Boxes game where a player competes against an
 - Simple GUI using Tkinter for game visualization.
 - Various player strategies implemented (random, local search).
 
+## How to Play
+1. Run the script.
+2. Click on the board to draw lines and claim boxes.
+3. The game alternates turns between the player and the AI.
+4. The AI opponents use different strategies to make their moves.
+
+## Requirements
+- Python 3.x
+- Tkinter 
+
+## Usage
+Simply run the script, and follow the on-screen instructions to play against the AI.
 
